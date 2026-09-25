@@ -3,6 +3,8 @@
 A playable web prototype for testing and presenting the mechanics of a **physical** Nantucket board game.
 The web version exists to test the physical game. Every mechanic below has a tabletop equivalent.
 
+**▶ Play the live demo: https://gamesbyashu.github.io/Actual-Local/**
+
 **Status: Vertical slice (Phases 1–4 core, with early pieces of 5, 7 and 9).**
 
 ---
